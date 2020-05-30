@@ -1,0 +1,1019 @@
+10:41:32.742252 IP 212.56.129.228.53 > 192.168.0.6.41660: 50190 1/0/0 A 216.58.206.67 (55)
+10:41:32.755979 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 750678323, win 269, options [nop,nop,TS val 4038229265 ecr 64197], length 0
+10:41:32.756734 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 40, win 269, options [nop,nop,TS val 4038229265 ecr 64197], length 0
+10:41:32.756952 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 75, win 269, options [nop,nop,TS val 4038229265 ecr 64197], length 0
+10:41:32.757047 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 220, win 273, options [nop,nop,TS val 4038229265 ecr 64197], length 0
+10:41:32.757170 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 255, win 273, options [nop,nop,TS val 4038229265 ecr 64197], length 0
+10:41:32.757399 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 0:39, ack 255, win 273, options [nop,nop,TS val 4038229266 ecr 64197], length 39
+10:41:32.779569 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 39:143, ack 255, win 273, options [nop,nop,TS val 4038229287 ecr 64197], length 104
+10:41:32.779827 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 143:174, ack 255, win 273, options [nop,nop,TS val 4038229287 ecr 64197], length 31
+10:41:32.779966 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 174:213, ack 255, win 273, options [nop,nop,TS val 4038229287 ecr 64197], length 39
+10:41:32.780180 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 213:244, ack 255, win 273, options [nop,nop,TS val 4038229287 ecr 64197], length 31
+10:41:32.782647 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 391, win 278, options [nop,nop,TS val 4038229293 ecr 64207], length 0
+10:41:32.872571 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 213:244, ack 391, win 278, options [nop,nop,TS val 4038229379 ecr 64207], length 31
+10:41:33.065845 IP 216.58.205.74.443 > 192.168.0.6.56734: Flags [S.], seq 3803299704, ack 4242370407, win 60192, options [mss 1380,sackOK,TS val 2502392276 ecr 63527,nop,wscale 8], length 0
+10:41:33.121004 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 0:244, ack 391, win 278, options [nop,nop,TS val 4038229627 ecr 64207], length 244
+10:41:33.403737 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:41:33.403788 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:41:33.609055 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 0:244, ack 391, win 278, options [nop,nop,TS val 4038230115 ecr 64207], length 244
+10:41:33.828010 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:34.640530 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 0:244, ack 391, win 278, options [nop,nop,TS val 4038231147 ecr 64207], length 244
+10:41:34.673483 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:34.749159 IP 212.56.129.228.53 > 192.168.0.6.41660: 50190 1/0/0 A 216.58.206.67 (55)
+10:41:34.832418 IP 212.56.129.228.53 > 192.168.0.6.58626: 55492 1/0/0 A 216.58.206.67 (55)
+10:41:35.073142 IP 216.58.205.74.443 > 192.168.0.6.56734: Flags [S.], seq 3803299704, ack 4242370407, win 60192, options [mss 1380,sackOK,TS val 2502394283 ecr 63527,nop,wscale 8], length 0
+10:41:35.828372 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:36.673899 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:37.828711 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:38.674328 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:39.310021 IP 212.56.132.20.53 > 192.168.0.6.7345: 5338 1/0/0 A 216.58.205.68 (48)
+10:41:39.323044 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 2494, win 324, options [nop,nop,TS val 4038235832 ecr 65841], length 0
+10:41:39.336800 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 2788, win 333, options [nop,nop,TS val 4038235846 ecr 65846], length 0
+10:41:39.342716 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:5823, ack 2788, win 333, options [nop,nop,TS val 4038235852 ecr 65846], length 147
+10:41:39.343020 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5823:5854, ack 2788, win 333, options [nop,nop,TS val 4038235852 ecr 65846], length 31
+10:41:39.343131 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5854:5893, ack 2788, win 333, options [nop,nop,TS val 4038235853 ecr 65846], length 39
+10:41:39.448287 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5893:6461, ack 2788, win 333, options [nop,nop,TS val 4038235953 ecr 65846], length 568
+10:41:39.448913 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 6461:7879, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 1418
+10:41:39.448939 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 7879:9297, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 1418
+10:41:39.448958 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 9297:10715, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 1418
+10:41:39.448976 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 10715:12133, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 1418
+10:41:39.449381 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 12133:13551, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 1418
+10:41:39.449402 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 13551:14162, ack 2788, win 333, options [nop,nop,TS val 4038235954 ecr 65846], length 611
+10:41:39.449420 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 14162:15580, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1418
+10:41:39.449698 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 15580:16998, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1418
+10:41:39.449720 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 16998:18416, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1418
+10:41:39.450067 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 18416:19834, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1418
+10:41:39.450088 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], seq 19834:21252, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1418
+10:41:39.450109 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 21252:22450, ack 2788, win 333, options [nop,nop,TS val 4038235956 ecr 65846], length 1198
+10:41:39.553229 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 21252:22450, ack 2788, win 333, options [nop,nop,TS val 4038236059 ecr 65846], length 1198
+10:41:39.722984 IP 216.58.209.42.443 > 192.168.0.6.41538: Flags [S.], seq 1098690898, ack 1561234683, win 60192, options [mss 1380,sackOK,TS val 1680707822 ecr 56002,nop,wscale 8], length 0
+10:41:39.808126 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038236315 ecr 65846], length 785
+10:41:39.829014 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:40.334486 IP 212.56.129.228.53 > 192.168.0.6.55107: 50560 1/0/0 A 172.217.21.68 (48)
+10:41:40.334682 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038236843 ecr 65846], length 785
+10:41:40.674668 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:41.345518 IP 212.56.132.20.53 > 192.168.0.6.5724: 12338 1/0/0 A 216.58.205.68 (48)
+10:41:41.358631 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038237867 ecr 65846], length 785
+10:41:41.655346 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 2788, win 333, options [nop,nop,TS val 4038238160 ecr 66424,nop,nop,sack 1 {2494:2788}], length 0
+10:41:41.829347 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:42.675047 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:43.433001 IP 212.56.129.228.53 > 192.168.0.6.46506: 46698 1/0/0 A 172.217.21.68 (48)
+10:41:43.433319 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038239915 ecr 66424], length 785
+10:41:43.829671 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:44.675419 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:45.398408 IP 212.56.129.228.53 > 192.168.0.6.63537: 39464 1/0/0 A 172.217.21.68 (48)
+10:41:45.830001 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:46.675800 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:47.398354 IP 212.56.132.20.53 > 192.168.0.6.50858: 39464 1/0/0 A 216.58.205.68 (48)
+10:41:47.830328 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:47.889897 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038244395 ecr 66424], length 785
+10:41:48.676132 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:49.830667 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:50.400122 IP 212.56.129.228.53 > 192.168.0.6.63537: 39464 1/0/0 A 172.217.21.68 (48)
+10:41:50.676573 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:51.831124 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:52.676991 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:53.831644 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:54.411033 IP 212.56.132.20.53 > 192.168.0.6.50858: 39464 1/0/0 A 216.58.205.68 (48)
+10:41:54.677331 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:55.832030 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:56.081462 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038252587 ecr 66424], length 785
+10:41:56.615519 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 2788, win 333, options [nop,nop,TS val 4038253116 ecr 70160,nop,nop,sack 1 {2330:2788}], length 0
+10:41:56.677652 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:57.832376 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:41:58.677969 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:41:59.832743 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:00.678317 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:01.833081 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:02.678649 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:03.833412 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:04.678978 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:05.833774 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:05.884566 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:42:05.884614 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:42:06.679309 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:07.834132 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:08.679736 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:09.834497 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:10.680166 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:11.834828 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:12.515030 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [P.], seq 5676:6461, ack 2788, win 333, options [nop,nop,TS val 4038268971 ecr 70160], length 785
+10:42:12.680576 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:13.835151 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:14.680997 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:15.835479 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:16.681419 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:17.835808 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:18.681743 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:19.836141 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:20.682166 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:21.836515 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:22.682505 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:23.836845 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:24.682873 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:25.837199 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:26.543973 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 2788, win 333, options [nop,nop,TS val 4038282996 ecr 77632,nop,nop,sack 1 {2330:2788}], length 0
+10:42:26.683334 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:27.837503 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:28.683757 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:29.837798 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:30.684185 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:31.838104 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:32.684526 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:33.838405 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:34.684957 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:35.838698 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:36.685314 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:37.839016 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:38.427971 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:42:38.428024 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:42:38.685641 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:39.344166 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [S.], seq 1300863138, ack 1489276171, win 60192, options [mss 1380,sackOK,TS val 607272748 ecr 80799,nop,wscale 8], length 0
+10:42:39.344308 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [.], ack 3141, win 343, options [nop,nop,TS val 4038295771 ecr 80799], length 0
+10:42:39.465131 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [S.], seq 255009264, ack 861367045, win 60192, options [mss 1380,sackOK,TS val 315177600 ecr 80875,nop,wscale 8], length 0
+10:42:39.562224 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [S.], seq 1300863138, ack 1489276171, win 60192, options [mss 1380,sackOK,TS val 607273053 ecr 80799,nop,wscale 8], length 0
+10:42:39.839321 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:39.844873 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [S.], seq 255009264, ack 861367045, win 60192, options [mss 1380,sackOK,TS val 315177906 ecr 80875,nop,wscale 8], length 0
+10:42:40.265615 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [S.], seq 1300863138, ack 1489276171, win 60192, options [mss 1380,sackOK,TS val 607273650 ecr 80799,nop,wscale 8], length 0
+10:42:40.460575 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [S.], seq 255009264, ack 861367045, win 60192, options [mss 1380,sackOK,TS val 315178596 ecr 80875,nop,wscale 8], length 0
+10:42:40.685980 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:41.839647 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:42.211264 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [S.], seq 1300863138, ack 1489276171, win 60192, options [mss 1380,sackOK,TS val 607275652 ecr 80799,nop,wscale 8], length 0
+10:42:42.518589 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [S.], seq 255009264, ack 861367045, win 60192, options [mss 1380,sackOK,TS val 315180601 ecr 80875,nop,wscale 8], length 0
+10:42:42.686391 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:43.839977 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:44.259522 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [S.], seq 1300863138, ack 1489276171, win 60192, options [mss 1380,sackOK,TS val 607277693 ecr 80799,nop,wscale 8], length 0
+10:42:44.566505 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [S.], seq 255009264, ack 861367045, win 60192, options [mss 1380,sackOK,TS val 315182610 ecr 80875,nop,wscale 8], length 0
+10:42:44.686743 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:45.840309 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:46.687127 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:47.840631 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:48.687450 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:49.174630 IP 212.56.132.20.53 > 192.168.0.6.39629: 64275 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:49.840964 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:50.198609 IP 212.56.129.228.53 > 192.168.0.6.35634: 3841 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:50.687885 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:51.222645 IP 212.56.132.20.53 > 192.168.0.6.40711: 51989 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:51.841274 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:52.688246 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:53.168342 IP 212.56.129.228.53 > 192.168.0.6.9303: 50709 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:53.841606 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:54.688661 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:55.216335 IP 212.56.129.228.53 > 192.168.0.6.29883: 20964 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:55.841917 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:56.547599 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315194650 ecr 82645], length 0
+10:42:56.689082 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:56.762357 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315194898 ecr 82645], length 0
+10:42:57.059545 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315195146 ecr 82645], length 0
+10:42:57.175705 IP 212.56.132.20.53 > 192.168.0.6.19666: 20964 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:42:57.571561 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315195634 ecr 82645], length 0
+10:42:57.842245 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:42:58.595694 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315196626 ecr 82645], length 0
+10:42:58.689525 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:42:59.842578 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:00.233857 IP 212.56.129.228.53 > 192.168.0.6.29883: 20964 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:00.541190 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315198610 ecr 82645], length 0
+10:43:00.689971 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:01.842911 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:02.690413 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:03.843252 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:04.227605 IP 212.56.132.20.53 > 192.168.0.6.19666: 20964 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:04.378922 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315202514 ecr 82645], length 0
+10:43:04.690765 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:05.843590 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:06.691129 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:07.843927 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:08.691520 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:09.245591 IP 212.56.129.228.53 > 192.168.0.6.30163: 25500 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:09.245727 IP 212.56.129.228.53 > 192.168.0.6.17533: 16114 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:09.844259 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:10.691957 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:10.930601 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:43:10.930648 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:43:11.191163 IP 212.56.132.20.53 > 192.168.0.6.17706: 25500 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:11.191407 IP 212.56.132.20.53 > 192.168.0.6.29021: 16114 2/0/0 CNAME star-mini.c10r.facebook.com., A 31.13.86.36 (79)
+10:43:11.844591 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:12.419820 IP 172.217.21.68.443 > 192.168.0.6.37092: Flags [F.], seq 213, ack 649, win 240, options [nop,nop,TS val 315210514 ecr 82645], length 0
+10:43:12.692297 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:13.844931 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:14.692719 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:15.845257 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:16.693043 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:16.774712 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 1578836987:1578837167, ack 2147377712, win 113, options [nop,nop,TS val 2854684427 ecr 90206], length 180
+10:43:16.967338 IP 212.56.132.20.53 > 192.168.0.6.60298: 37112 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:17.845574 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:17.948699 IP 212.56.129.228.53 > 192.168.0.6.60969: 18258 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:18.556106 IP 192.168.0.16.34590 > 195.113.20.2.123: NTPv4, Client, length 48
+10:43:18.693512 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:18.719264 IP 212.56.129.228.53 > 192.168.0.6.20938: 26426 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:18.790655 IP 195.113.20.2.123 > 192.168.0.16.34590: NTPv4, Server, length 48
+10:43:18.907798 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 311223394:311223429, ack 765771880, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 35
+10:43:18.908640 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 35:153, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 118
+10:43:18.908668 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 153:1541, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.908693 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 1541:2929, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.908713 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 2929:4317, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.908732 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 4317:5705, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.908751 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 5705:7093, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.908770 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 7093:8481, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.909024 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 8481:9869, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.909045 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 12393:12427, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 34
+10:43:18.909286 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 11005:12393, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1388
+10:43:18.909305 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 20045:20068, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 23
+10:43:18.914870 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 20011:20045, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 34
+10:43:18.915241 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 18623:20011, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:18.915261 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 18566:18623, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 57
+10:43:19.001799 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 99540:99670, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 130
+10:43:19.002149 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 9869:11005, ack 1, win 206, options [nop,nop,TS val 3359650469 ecr 90711], length 1136
+10:43:19.002171 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1218, win 264, options [nop,nop,TS val 3359650485 ecr 90715], length 0
+10:43:19.002410 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 12427:12527, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 100
+10:43:19.002521 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99540, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 35
+10:43:19.003482 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 12527:13014, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 487
+10:43:19.003507 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 13014:14402, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003526 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 14402:15790, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003552 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 15790:17178, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003571 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 17178:18566, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003590 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 20068:21456, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003611 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 21456:22844, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003629 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 27008:28396, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003648 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 25620:27008, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.003669 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 24232:25620, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004529 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 22844:24232, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004551 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 28396:29784, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004570 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 29784:31172, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004588 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 31172:32560, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004606 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 32560:33948, ack 1218, win 264, options [nop,nop,TS val 3359650486 ecr 90715], length 1388
+10:43:19.004624 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 99670:101058, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.004642 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 101058:102446, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.004661 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 102446:103834, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.004679 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 33948:35336, ack 1218, win 264, options [nop,nop,TS val 3359650487 ecr 90715], length 1388
+10:43:19.004698 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 35336:36724, ack 1218, win 264, options [nop,nop,TS val 3359650487 ecr 90715], length 1388
+10:43:19.004938 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 106610:107998, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.005070 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 38112:38883, ack 1218, win 264, options [nop,nop,TS val 3359650488 ecr 90715], length 771
+10:43:19.005269 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 107998:109386, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.005458 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 110774:112162, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.005607 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 103834:105222, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.005759 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 105222:106610, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.005961 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 109386:110774, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.006209 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 36724:38112, ack 1218, win 264, options [nop,nop,TS val 3359650487 ecr 90715], length 1388
+10:43:19.006427 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 112162:113550, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.006851 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 113550:114938, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.006872 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 114938:116326, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.006890 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 116326:117714, ack 2793, win 157, options [nop,nop,TS val 2854686500 ecr 90715], length 1388
+10:43:19.006907 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 117714:118113, ack 2793, win 157, options [nop,nop,TS val 2854686501 ecr 90715], length 399
+10:43:19.007186 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 118113:119501, ack 2793, win 157, options [nop,nop,TS val 2854686501 ecr 90715], length 1388
+10:43:19.007206 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 119501:119535, ack 2793, win 157, options [nop,nop,TS val 2854686501 ecr 90715], length 34
+10:43:19.007449 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 38883:40271, ack 1218, win 264, options [nop,nop,TS val 3359650488 ecr 90715], length 1388
+10:43:19.007468 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 40271:40305, ack 1218, win 264, options [nop,nop,TS val 3359650488 ecr 90715], length 34
+10:43:19.007576 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1218, win 264, options [nop,nop,TS val 3359650488 ecr 90725], length 0
+10:43:19.007685 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 40305:40328, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 23
+10:43:19.007968 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 40328:41716, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.007989 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 41716:43104, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.008401 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 43104:44492, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.008422 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 44492:45880, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.008443 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 45880:47268, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.008725 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 47268:48656, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.008746 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 48656:50044, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.009108 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 50044:51432, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.009128 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 51432:52820, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.009324 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 52820:54208, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.009663 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 54208:55596, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.009952 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 55596:56984, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.010282 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 56984:58372, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.011247 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 58372:59760, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.012374 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 59760:61148, ack 1218, win 264, options [nop,nop,TS val 3359650489 ecr 90725], length 1388
+10:43:19.012397 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 61148:62536, ack 1218, win 264, options [nop,nop,TS val 3359650490 ecr 90725], length 1388
+10:43:19.012416 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 62536:63924, ack 1218, win 264, options [nop,nop,TS val 3359650490 ecr 90725], length 1388
+10:43:19.012797 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 63924:65312, ack 1218, win 264, options [nop,nop,TS val 3359650490 ecr 90725], length 1388
+10:43:19.017705 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 65312:66700, ack 1218, win 264, options [nop,nop,TS val 3359650490 ecr 90725], length 1388
+10:43:19.019980 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 66700:68088, ack 1218, win 264, options [nop,nop,TS val 3359650490 ecr 90725], length 1388
+10:43:19.020003 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 68088:69476, ack 1218, win 264, options [nop,nop,TS val 3359650491 ecr 90725], length 1388
+10:43:19.020023 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 69476:70864, ack 1218, win 264, options [nop,nop,TS val 3359650491 ecr 90725], length 1388
+10:43:19.020041 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 70864:72252, ack 1218, win 264, options [nop,nop,TS val 3359650491 ecr 90725], length 1388
+10:43:19.020059 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 72252:73640, ack 1218, win 264, options [nop,nop,TS val 3359650491 ecr 90725], length 1388
+10:43:19.020077 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 73640:75028, ack 1218, win 264, options [nop,nop,TS val 3359650491 ecr 90725], length 1388
+10:43:19.020479 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 75028:75467, ack 1218, win 264, options [nop,nop,TS val 3359650493 ecr 90725], length 439
+10:43:19.020500 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 75467:76855, ack 1218, win 264, options [nop,nop,TS val 3359650493 ecr 90725], length 1388
+10:43:19.020518 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 76855:76889, ack 1218, win 264, options [nop,nop,TS val 3359650493 ecr 90725], length 34
+10:43:19.020630 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 76889:76912, ack 1218, win 264, options [nop,nop,TS val 3359650493 ecr 90725], length 23
+10:43:19.020740 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 119501:119535, ack 2793, win 157, options [nop,nop,TS val 2854686550 ecr 90715], length 34
+10:43:19.021048 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 76912:78300, ack 1218, win 264, options [nop,nop,TS val 3359650572 ecr 90725], length 1388
+10:43:19.021070 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 78300:79688, ack 1218, win 264, options [nop,nop,TS val 3359650572 ecr 90725], length 1388
+10:43:19.021090 IP 212.56.132.20.53 > 192.168.0.6.5941: 40543 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:19.021201 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359650672 ecr 90771], length 0
+10:43:19.047547 IP 212.56.132.20.53 > 192.168.0.6.64184: 56061 1/0/0 A 31.13.86.4 (55)
+10:43:19.055927 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854686725 ecr 90715], length 165
+10:43:19.077611 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359650731 ecr 90771], length 153
+10:43:19.133154 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854686800 ecr 90801], length 0
+10:43:19.237630 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359650889 ecr 90771], length 0
+10:43:19.400855 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359651051 ecr 90771], length 153
+10:43:19.401110 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854687069 ecr 90801], length 165
+10:43:19.845894 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:19.863509 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854687470 ecr 90931], length 0
+10:43:19.863649 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359651456 ecr 90771], length 0
+10:43:19.863763 IP 212.56.132.20.53 > 192.168.0.6.48315: 24490 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:19.863876 IP 212.56.132.20.53 > 192.168.0.6.55114: 7858 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (86)
+10:43:20.033136 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359651683 ecr 90771], length 153
+10:43:20.058557 IP 212.56.129.228.53 > 192.168.0.6.56993: 19058 1/0/0 A 31.13.86.4 (55)
+10:43:20.096517 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854687765 ecr 90931], length 165
+10:43:20.562887 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359652213 ecr 90771], length 0
+10:43:20.622284 IP 212.56.129.228.53 > 192.168.0.6.31348: 18413 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:20.693967 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:20.697439 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854688364 ecr 91192], length 0
+10:43:20.769935 IP 212.56.129.228.53 > 192.168.0.6.21631: 42013 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (86)
+10:43:20.986440 IP 212.56.129.228.53 > 192.168.0.6.9556: 50859 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:21.070914 IP 212.56.132.20.53 > 192.168.0.6.33665: 26190 1/0/0 A 31.13.86.4 (55)
+10:43:21.246434 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 1201557249:1201557284, ack 379237845, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 35
+10:43:21.246852 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 35:273, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 238
+10:43:21.246876 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 34973:36361, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.247446 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 36361:37749, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.247468 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 37749:39137, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.247487 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 39137:40525, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.247505 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 40525:41913, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.247524 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 41913:43301, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248127 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 43301:44689, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248148 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 44689:46077, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248169 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 46077:47465, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248187 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 47465:48853, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248205 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 48853:50241, ack 1, win 233, options [nop,nop,TS val 4263972404 ecr 91323], length 1388
+10:43:21.248226 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 50241:51629, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.248768 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 51629:53017, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.248792 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 53017:54405, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.248813 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 54405:55793, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.248835 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 55793:57181, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.248853 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 57181:58569, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249432 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 58569:59957, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249454 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 59957:61345, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249472 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 61345:62733, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249491 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 62733:64121, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249508 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 64121:65509, ack 1, win 233, options [nop,nop,TS val 4263972405 ecr 91323], length 1388
+10:43:21.249526 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 65509:66897, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250078 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 66897:68285, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250099 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 68285:69673, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250119 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 69673:71061, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250138 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 71061:72449, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250156 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 72449:73837, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 1388
+10:43:21.250173 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 73837:74246, ack 1, win 233, options [nop,nop,TS val 4263972406 ecr 91323], length 409
+10:43:21.250418 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 74246:75634, ack 1, win 233, options [nop,nop,TS val 4263972407 ecr 91323], length 1388
+10:43:21.250441 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 75634:75668, ack 1, win 233, options [nop,nop,TS val 4263972407 ecr 91323], length 34
+10:43:21.313000 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359652964 ecr 90771], length 153
+10:43:21.465991 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 75634:75668, ack 1, win 233, options [nop,nop,TS val 4263972626 ecr 91323], length 34
+10:43:21.466996 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 75668:75703, ack 98, win 233, options [nop,nop,TS val 4263972630 ecr 91379], length 35
+10:43:21.471776 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 75703:75927, ack 98, win 233, options [nop,nop,TS val 4263972631 ecr 91379], length 224
+10:43:21.473426 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 75927:76230, ack 98, win 233, options [nop,nop,TS val 4263972631 ecr 91379], length 303
+10:43:21.504912 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854689173 ecr 91192], length 165
+10:43:21.533188 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 76230:76265, ack 195, win 233, options [nop,nop,TS val 4263972696 ecr 91396], length 35
+10:43:21.534534 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 76265:76488, ack 195, win 233, options [nop,nop,TS val 4263972697 ecr 91396], length 223
+10:43:21.534556 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 76488:77876, ack 195, win 233, options [nop,nop,TS val 4263972697 ecr 91396], length 1388
+10:43:21.535052 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 77876:78118, ack 195, win 233, options [nop,nop,TS val 4263972697 ecr 91396], length 242
+10:43:21.535074 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 78118:79506, ack 195, win 233, options [nop,nop,TS val 4263972697 ecr 91396], length 1388
+10:43:21.535091 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 79506:79540, ack 195, win 233, options [nop,nop,TS val 4263972697 ecr 91396], length 34
+10:43:21.785094 IP 212.56.132.20.53 > 192.168.0.6.44393: 36990 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (86)
+10:43:21.790800 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 0:273, ack 195, win 233, options [nop,nop,TS val 4263972953 ecr 91396], length 273
+10:43:21.845665 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263973006 ecr 91474], length 0
+10:43:21.846187 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:22.335891 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359653985 ecr 90771], length 0
+10:43:22.500435 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263973656 ecr 91634], length 0
+10:43:22.644403 IP 212.56.132.20.53 > 192.168.0.6.46824: 44639 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:22.694304 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:22.914224 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854690578 ecr 91714], length 0
+10:43:22.935082 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 0:273, ack 195, win 233, options [nop,nop,TS val 4263974098 ecr 91634], length 273
+10:43:23.013345 IP 212.56.129.228.53 > 192.168.0.6.14639: 31297 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:23.094432 IP 212.56.129.228.53 > 192.168.0.6.19321: 26896 1/0/0 A 31.13.86.4 (55)
+10:43:23.596313 ARP, Request who-has 192.168.0.1 tell 192.168.0.16, length 28
+10:43:23.601822 ARP, Reply 192.168.0.1 is-at 2c:99:24:65:84:b0, length 46
+10:43:23.785631 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263974942 ecr 91955], length 0
+10:43:23.807674 IP 212.56.129.228.53 > 192.168.0.6.34801: 49663 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (86)
+10:43:23.846509 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:23.870449 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359655524 ecr 90771], length 153
+10:43:24.263096 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854691925 ecr 91714], length 165
+10:43:24.677809 IP 212.56.129.228.53 > 192.168.0.6.11860: 4155 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:24.694788 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:25.014757 IP 212.56.132.20.53 > 192.168.0.6.15862: 31297 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:25.124645 IP 212.56.129.228.53 > 192.168.0.6.12552: 10011 1/0/0 A 31.13.86.4 (55)
+10:43:25.181724 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 0:273, ack 195, win 233, options [nop,nop,TS val 4263976339 ecr 91955], length 273
+10:43:25.846859 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:26.038640 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359657687 ecr 90771], length 0
+10:43:26.051558 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495605976 ecr 92477,nop,wscale 8], length 0
+10:43:26.057480 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479378568 ecr 92477,nop,wscale 8], length 0
+10:43:26.057597 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479378568 ecr 92523,nop,wscale 8], length 0
+10:43:26.335847 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263977494 ecr 92596], length 0
+10:43:26.357599 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495606283 ecr 92477,nop,wscale 8], length 0
+10:43:26.358203 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479378870 ecr 92477,nop,wscale 8], length 0
+10:43:26.358455 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479378870 ecr 92523,nop,wscale 8], length 0
+10:43:26.383939 IP 216.58.205.68.443 > 192.168.0.6.39648: Flags [R], seq 4243061649, win 0, length 0
+10:43:26.606992 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 1507578703:1507578738, ack 1271710524, win 285, options [nop,nop,TS val 2162695765 ecr 92662], length 35
+10:43:26.608572 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 2884, win 307, options [nop,nop,TS val 2162695769 ecr 92662], length 0
+10:43:26.608882 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 5767, win 330, options [nop,nop,TS val 2162695769 ecr 92663], length 0
+10:43:26.608994 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162695770 ecr 92663], length 0
+10:43:26.638082 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 35:202, ack 7226, win 341, options [nop,nop,TS val 2162695801 ecr 92663], length 167
+10:43:26.683846 IP 212.56.132.20.53 > 192.168.0.6.32967: 4155 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:26.695206 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:26.701222 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162695865 ecr 92687], length 0
+10:43:26.729006 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 35:202, ack 7226, win 341, options [nop,nop,TS val 2162695892 ecr 92687], length 167
+10:43:26.864004 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495606785 ecr 92477,nop,wscale 8], length 0
+10:43:26.865595 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479379378 ecr 92477,nop,wscale 8], length 0
+10:43:26.872704 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162696036 ecr 92687], length 202
+10:43:26.948726 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162696108 ecr 92687], length 0
+10:43:26.956923 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854694622 ecr 92756], length 0
+10:43:27.074884 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479379580 ecr 92523,nop,wscale 8], length 0
+10:43:27.120043 IP 212.56.132.20.53 > 192.168.0.6.19091: 10011 1/0/0 A 31.13.86.4 (55)
+10:43:27.164716 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162696324 ecr 92687], length 202
+10:43:27.472513 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162696606 ecr 92687], length 0
+10:43:27.779806 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162696916 ecr 92687], length 202
+10:43:27.847195 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:28.028125 IP 212.56.129.228.53 > 192.168.0.6.14639: 31297 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:28.497190 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162697596 ecr 92687], length 0
+10:43:28.695618 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:28.874302 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479381382 ecr 92477,nop,wscale 8], length 0
+10:43:28.874537 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495608796 ecr 92477,nop,wscale 8], length 0
+10:43:28.876864 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479381388 ecr 92477,nop,wscale 8], length 0
+10:43:28.904616 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162698068 ecr 92687], length 202
+10:43:28.993484 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359660644 ecr 90771], length 153
+10:43:29.129253 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479381638 ecr 92523,nop,wscale 8], length 0
+10:43:29.177758 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479381686 ecr 92523,nop,wscale 8], length 0
+10:43:29.725559 IP 212.56.129.228.53 > 192.168.0.6.11860: 4155 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:29.847514 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:29.979719 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [P.], seq 0:273, ack 195, win 233, options [nop,nop,TS val 4263981138 ecr 92596], length 273
+10:43:30.134436 IP 212.56.129.228.53 > 192.168.0.6.12552: 10011 1/0/0 A 31.13.86.4 (55)
+10:43:30.211722 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854697877 ecr 92756], length 165
+10:43:30.442233 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162699586 ecr 92687], length 0
+10:43:30.696051 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:30.890554 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495610812 ecr 92477,nop,wscale 8], length 0
+10:43:31.261625 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162700372 ecr 92687], length 202
+10:43:31.578455 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263982660 ecr 93880], length 0
+10:43:31.847846 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:32.025847 IP 212.56.132.20.53 > 192.168.0.6.15862: 31297 2/0/0 CNAME scontent.xx.fbcdn.net., A 31.13.86.4 (86)
+10:43:32.696470 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:32.886190 IP 216.58.198.2.443 > 192.168.0.6.58880: Flags [S.], seq 2349210130, ack 558665785, win 60192, options [mss 1380,sackOK,TS val 2495612807 ecr 92477,nop,wscale 8], length 0
+10:43:32.886469 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [S.], seq 2306839099, ack 4237241796, win 60192, options [mss 1380,sackOK,TS val 2479385394 ecr 92477,nop,wscale 8], length 0
+10:43:32.907797 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359664561 ecr 90771], length 0
+10:43:33.104066 IP 216.58.198.2.443 > 192.168.0.6.58884: Flags [S.], seq 2480793014, ack 137396311, win 60192, options [mss 1380,sackOK,TS val 2479385608 ecr 92523,nop,wscale 8], length 0
+10:43:33.719944 IP 212.56.129.228.53 > 192.168.0.6.32652: 28086 4/4/0 A 99.86.154.31, A 99.86.154.64, A 99.86.154.90, A 99.86.154.121 (247)
+10:43:33.720151 IP 212.56.132.20.53 > 192.168.0.6.32967: 4155 2/0/0 CNAME star.c10r.facebook.com., A 31.13.86.8 (80)
+10:43:33.848157 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:34.132358 IP 212.56.132.20.53 > 192.168.0.6.19091: 10011 1/0/0 A 31.13.86.4 (55)
+10:43:34.411473 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162703570 ecr 92687], length 0
+10:43:34.696868 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:35.391749 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854703056 ecr 94840], length 0
+10:43:35.391957 IP 212.56.132.20.53 > 192.168.0.6.1786: 25381 1/0/0 A 216.58.205.67 (50)
+10:43:35.606011 IP 212.56.132.20.53 > 192.168.0.6.31626: 28086 4/4/0 A 99.86.154.31, A 99.86.154.90, A 99.86.154.121, A 99.86.154.64 (247)
+10:43:35.848477 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:36.227758 IP 212.56.129.228.53 > 192.168.0.6.51609: 40788 1/0/0 A 216.58.208.163 (50)
+10:43:36.269796 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162705428 ecr 92687], length 202
+10:43:36.697288 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:37.848813 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:38.697710 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:38.725035 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474707996 ecr 95693,nop,wscale 8], length 0
+10:43:38.954305 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [P.], seq 2589611082:2589611691, ack 4126023562, win 118, options [nop,nop,TS val 403050757 ecr 95678], length 609: HTTP: HTTP/1.1 403 Forbidden
+10:43:39.044009 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403050766 ecr 95772], length 0
+10:43:39.134207 IP 212.56.129.228.53 > 192.168.0.6.23726: 29177 1/0/0 A 31.13.86.4 (55)
+10:43:39.135113 IP 212.56.129.228.53 > 192.168.0.6.32239: 7273 1/0/0 A 31.13.86.4 (55)
+10:43:39.195459 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], seq 0:256, ack 195, win 233, options [nop,nop,TS val 4263990354 ecr 93880], length 256
+10:43:39.233279 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [P.], seq 0:153, ack 1434, win 264, options [nop,nop,TS val 3359670884 ecr 90771], length 153
+10:43:39.283084 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403050790 ecr 95832,nop,nop,sack 1 {1:2}], length 0
+10:43:39.295996 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403050792 ecr 95832], length 0
+10:43:39.533936 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403050815 ecr 95892,nop,nop,sack 1 {1:2}], length 0
+10:43:39.590209 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403050821 ecr 95892], length 0
+10:43:39.725439 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474708994 ecr 95693,nop,wscale 8], length 0
+10:43:39.849132 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:40.001949 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403050862 ecr 96012,nop,nop,sack 1 {1:2}], length 0
+10:43:40.079319 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403050870 ecr 96012], length 0
+10:43:40.142576 IP 212.56.132.20.53 > 192.168.0.6.23093: 14757 2/0/0 A 104.20.177.69, A 104.20.176.69 (66)
+10:43:40.698164 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:40.743366 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474710011 ecr 95693,nop,wscale 8], length 0
+10:43:40.977661 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403050959 ecr 96252,nop,nop,sack 1 {1:2}], length 0
+10:43:41.062616 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403050968 ecr 96252], length 0
+10:43:41.136703 IP 212.56.132.20.53 > 192.168.0.6.32379: 7273 1/0/0 A 31.13.86.4 (55)
+10:43:41.137476 IP 212.56.132.20.53 > 192.168.0.6.26874: 29177 1/0/0 A 31.13.86.4 (55)
+10:43:41.150650 IP 212.56.129.228.53 > 192.168.0.6.14093: 56422 2/0/0 A 104.20.176.69, A 104.20.177.69 (66)
+10:43:41.479483 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [P.], seq 99505:99670, ack 2793, win 157, options [nop,nop,TS val 2854709141 ecr 94840], length 165
+10:43:41.732770 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474711001 ecr 95693,nop,wscale 8], length 0
+10:43:41.739529 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [.], ack 195, win 233, options [nop,nop,TS val 4263992902 ecr 96448], length 0
+10:43:41.849443 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:42.182755 IP 212.56.132.20.53 > 192.168.0.6.25957: 44984 2/0/0 A 104.20.177.69, A 104.20.176.69 (66)
+10:43:42.354075 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162711513 ecr 92687], length 0
+10:43:42.698646 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:42.935252 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403051153 ecr 96733,nop,nop,sack 1 {1:2}], length 0
+10:43:43.069859 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [F.], seq 614, ack 2, win 118, options [nop,nop,TS val 403051169 ecr 96733], length 0
+10:43:43.849763 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:43.854178 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474713018 ecr 95693,nop,wscale 8], length 0
+10:43:44.164101 IP 212.56.129.228.53 > 192.168.0.6.32239: 7273 1/0/0 A 31.13.86.4 (55)
+10:43:44.164323 IP 212.56.129.228.53 > 192.168.0.6.23726: 29177 1/0/0 A 31.13.86.4 (55)
+10:43:44.191212 IP 212.56.129.228.53 > 192.168.0.6.38925: 37451 2/0/0 A 104.20.176.69, A 104.20.177.69 (66)
+10:43:44.643837 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:43:44.643894 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:43:44.698971 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:45.485619 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [P.], seq 0:202, ack 7226, win 341, options [nop,nop,TS val 2162714644 ecr 92687], length 202
+10:43:45.754437 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474715022 ecr 95693,nop,wscale 8], length 0
+10:43:45.850090 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:46.223916 IP 212.56.129.228.53 > 192.168.0.6.3905: 27281 2/0/0 A 104.20.176.69, A 104.20.177.69 (66)
+10:43:46.699354 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:46.745682 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [.], ack 2, win 118, options [nop,nop,TS val 403051536 ecr 97696,nop,nop,sack 1 {1:2}], length 0
+10:43:47.044701 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], ack 1434, win 264, options [nop,nop,TS val 3359678693 ecr 90771], length 0
+10:43:47.072632 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710836005 ecr 97780,nop,wscale 8], length 0
+10:43:47.090554 IP 31.13.86.4.443 > 192.168.0.6.48094: Flags [FP.], seq 79540:79609, ack 369, win 244, options [nop,nop,TS val 4263998252 ecr 97782], length 69
+10:43:47.092323 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497333015 ecr 97781,nop,wscale 8], length 0
+10:43:47.341004 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379466092 ecr 97845,nop,wscale 8], length 0
+10:43:47.382059 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728022668 ecr 97856,nop,wscale 8], length 0
+10:43:47.393234 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307088616 ecr 97857,nop,wscale 8], length 0
+10:43:47.850402 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:48.088001 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710837020 ecr 97780,nop,wscale 8], length 0
+10:43:48.090476 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497334013 ecr 97781,nop,wscale 8], length 0
+10:43:48.147263 IP 212.56.132.20.53 > 192.168.0.6.32379: 7273 1/0/0 A 31.13.86.4 (55)
+10:43:48.147973 IP 212.56.132.20.53 > 192.168.0.6.26874: 29177 1/0/0 A 31.13.86.4 (55)
+10:43:48.222467 IP 212.56.132.20.53 > 192.168.0.6.32920: 27281 2/0/0 A 104.20.177.69, A 104.20.176.69 (66)
+10:43:48.337863 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379467093 ecr 97845,nop,wscale 8], length 0
+10:43:48.373654 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728023663 ecr 97856,nop,wscale 8], length 0
+10:43:48.380739 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307089612 ecr 97857,nop,wscale 8], length 0
+10:43:48.699704 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:49.125969 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497335046 ecr 97781,nop,wscale 8], length 0
+10:43:49.142732 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710838080 ecr 97780,nop,wscale 8], length 0
+10:43:49.376956 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379468133 ecr 97845,nop,wscale 8], length 0
+10:43:49.404792 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307090636 ecr 97857,nop,wscale 8], length 0
+10:43:49.441303 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728024727 ecr 97856,nop,wscale 8], length 0
+10:43:49.766105 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474719034 ecr 95693,nop,wscale 8], length 0
+10:43:49.850737 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:50.084095 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710839018 ecr 97780,nop,wscale 8], length 0
+10:43:50.089149 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497336011 ecr 97781,nop,wscale 8], length 0
+10:43:50.342200 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379469097 ecr 97845,nop,wscale 8], length 0
+10:43:50.385998 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728025671 ecr 97856,nop,wscale 8], length 0
+10:43:50.386321 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307091615 ecr 97857,nop,wscale 8], length 0
+10:43:50.700044 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:51.232484 IP 212.56.129.228.53 > 192.168.0.6.3905: 27281 2/0/0 A 104.20.176.69, A 104.20.177.69 (66)
+10:43:51.851059 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:51.972655 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854719638 ecr 99008], length 0
+10:43:52.093517 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710841024 ecr 97780,nop,wscale 8], length 0
+10:43:52.135416 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497338055 ecr 97781,nop,wscale 8], length 0
+10:43:52.386598 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379471141 ecr 97845,nop,wscale 8], length 0
+10:43:52.413360 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307093644 ecr 97857,nop,wscale 8], length 0
+10:43:52.445403 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728027735 ecr 97856,nop,wscale 8], length 0
+10:43:52.700401 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:53.155034 IP 212.56.129.228.53 > 192.168.0.6.12906: 13158 1/0/0 A 31.13.86.4 (55)
+10:43:53.155586 IP 212.56.129.228.53 > 192.168.0.6.23382: 19513 1/0/0 A 31.13.86.4 (55)
+10:43:53.754110 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474723022 ecr 95693,nop,wscale 8], length 0
+10:43:53.851390 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:54.133285 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710843066 ecr 97780,nop,wscale 8], length 0
+10:43:54.139413 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497340059 ecr 97781,nop,wscale 8], length 0
+10:43:54.347851 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379473103 ecr 97845,nop,wscale 8], length 0
+10:43:54.393067 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307095621 ecr 97857,nop,wscale 8], length 0
+10:43:54.393702 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728029683 ecr 97856,nop,wscale 8], length 0
+10:43:54.438855 IP 99.86.154.31.80 > 192.168.0.6.52296: Flags [R], seq 2589611696, win 0, length 0
+10:43:54.700750 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:55.851734 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:56.701088 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:56.866517 IP 212.56.132.20.53 > 192.168.0.6.57616: 41568 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:43:56.880848 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351419864 ecr 100222,nop,wscale 8], length 0
+10:43:56.882017 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [.], ack 525497025, win 248, options [nop,nop,TS val 666051865 ecr 100223], length 0
+10:43:57.169412 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [.], ack 40, win 248, options [nop,nop,TS val 666051865 ecr 100223], length 0
+10:43:57.169664 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:39, ack 40, win 248, options [nop,nop,TS val 666051866 ecr 100223], length 39
+10:43:57.169917 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 39:186, ack 40, win 248, options [nop,nop,TS val 666051889 ecr 100223], length 147
+10:43:57.169938 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 186:607, ack 40, win 248, options [nop,nop,TS val 666051889 ecr 100223], length 421
+10:43:57.169957 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 607:828, ack 40, win 248, options [nop,nop,TS val 666051890 ecr 100223], length 221
+10:43:57.169973 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 828:867, ack 40, win 248, options [nop,nop,TS val 666051890 ecr 100223], length 39
+10:43:57.170089 IP 212.56.132.20.53 > 192.168.0.6.32899: 53441 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:43:57.170201 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 828:867, ack 40, win 248, options [nop,nop,TS val 666051988 ecr 100223], length 39
+10:43:57.170396 IP 212.56.132.20.53 > 192.168.0.6.63370: 54223 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:43:57.170416 IP 212.56.132.20.53 > 192.168.0.6.8070: 26263 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:43:57.329286 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:867, ack 40, win 248, options [nop,nop,TS val 666052236 ecr 100223], length 867
+10:43:57.332179 IP 212.56.132.20.53 > 192.168.0.6.47405: 61949 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:43:57.332292 IP 212.56.132.20.53 > 192.168.0.6.12540: 11493 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:43:57.339447 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877595105 ecr 100286,nop,wscale 8], length 0
+10:43:57.450380 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:57.451246 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:57.489779 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 3061779734, win 252, options [nop,nop,TS val 1373399 ecr 100383], length 0
+10:43:57.490053 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1373399 ecr 100383], length 110
+10:43:57.490254 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 110:1528, ack 1, win 252, options [nop,nop,TS val 1373399 ecr 100383], length 1418
+10:43:57.490447 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 1528:2946, ack 1, win 252, options [nop,nop,TS val 1373400 ecr 100383], length 1418
+10:43:57.490748 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 2946:4364, ack 1, win 252, options [nop,nop,TS val 1373400 ecr 100383], length 1418
+10:43:57.492602 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 4364:5782, ack 1, win 252, options [nop,nop,TS val 1373401 ecr 100383], length 1418
+10:43:57.492645 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 5782:7200, ack 1, win 252, options [nop,nop,TS val 1373401 ecr 100383], length 1418
+10:43:57.492668 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 7200:8618, ack 1, win 252, options [nop,nop,TS val 1373401 ecr 100383], length 1418
+10:43:57.492687 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 8618:10036, ack 1, win 252, options [nop,nop,TS val 1373401 ecr 100383], length 1418
+10:43:57.492919 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 10036:11454, ack 1, win 252, options [nop,nop,TS val 1373402 ecr 100383], length 1418
+10:43:57.494453 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 11454:12872, ack 1, win 252, options [nop,nop,TS val 1373402 ecr 100383], length 1418
+10:43:57.494482 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 12872:14290, ack 1, win 252, options [nop,nop,TS val 1373403 ecr 100383], length 1418
+10:43:57.494505 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 14290:15708, ack 1, win 252, options [nop,nop,TS val 1373403 ecr 100383], length 1418
+10:43:57.494524 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 15708:17126, ack 1, win 252, options [nop,nop,TS val 1373404 ecr 100383], length 1418
+10:43:57.494934 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 17126:18544, ack 1, win 252, options [nop,nop,TS val 1373404 ecr 100383], length 1418
+10:43:57.494956 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 18544:19962, ack 1, win 252, options [nop,nop,TS val 1373405 ecr 100383], length 1418
+10:43:57.495885 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 19962:21380, ack 1, win 252, options [nop,nop,TS val 1373405 ecr 100383], length 1418
+10:43:57.495907 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 21380:22798, ack 1, win 252, options [nop,nop,TS val 1373405 ecr 100383], length 1418
+10:43:57.497784 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 22798:24216, ack 1, win 252, options [nop,nop,TS val 1373405 ecr 100383], length 1418
+10:43:57.497809 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], seq 24216:25634, ack 1, win 252, options [nop,nop,TS val 1373406 ecr 100383], length 1418
+10:43:57.497827 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 25634:25849, ack 1, win 252, options [nop,nop,TS val 1373406 ecr 100383], length 215
+10:43:57.559293 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:57.581805 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [P.], seq 1992179072:1992179103, ack 3017528337, win 129, options [nop,nop,TS val 405245511 ecr 40429], length 31
+10:43:57.582149 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [F.], seq 31, ack 1, win 129, options [nop,nop,TS val 405245511 ecr 40429], length 0
+10:43:57.583490 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 514597438, ack 2115002740, win 246, options [nop,nop,TS val 834120544 ecr 40432], length 0
+10:43:57.589735 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [P.], seq 1869457764:1869457795, ack 68179051, win 129, options [nop,nop,TS val 403083411 ecr 40422], length 31
+10:43:57.591147 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 25634:25849, ack 1, win 252, options [nop,nop,TS val 1373504 ecr 100383], length 215
+10:43:57.591168 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [F.], seq 31, ack 1, win 129, options [nop,nop,TS val 403083411 ecr 40422], length 0
+10:43:57.692544 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [F.], seq 31, ack 1, win 129, options [nop,nop,TS val 405245522 ecr 40429], length 0
+10:43:57.700205 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [F.], seq 31, ack 1, win 129, options [nop,nop,TS val 403083423 ecr 40422], length 0
+10:43:57.724259 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:867, ack 40, win 248, options [nop,nop,TS val 666052732 ecr 100223], length 867
+10:43:57.725806 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1373639 ecr 100444,nop,nop,sack 1 {4294967047:1}], length 0
+10:43:57.747320 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:57.816465 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:57.817549 IP 212.56.129.228.53 > 192.168.0.6.38510: 48744 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:43:57.831371 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834120793 ecr 40432], length 0
+10:43:57.837987 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1373752 ecr 100444], length 110
+10:43:57.838368 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351420857 ecr 100222,nop,wscale 8], length 0
+10:43:57.852063 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:57.975920 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 405245548 ecr 40429], length 31
+10:43:57.976043 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 403083449 ecr 40422], length 31
+10:43:57.976141 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1373883 ecr 100505,nop,nop,sack 1 {4294967047:1}], length 0
+10:43:57.984467 IP 212.56.129.228.53 > 192.168.0.6.2525: 41127 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:43:58.002778 IP 212.56.129.228.53 > 192.168.0.6.26228: 40757 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.100.205, A 147.75.100.189, A 147.75.100.245, A 147.75.102.197, A 147.75.102.199, A 147.75.33.229, A 147.75.84.31, A 147.75.102.203 (398)
+10:43:58.010502 IP 212.56.129.228.53 > 192.168.0.6.29245: 63537 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:43:58.075589 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810783432 ecr 100530,nop,wscale 8], length 0
+10:43:58.086771 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [.], ack 1594, win 245, options [nop,nop,TS val 2479410598 ecr 100533], length 0
+10:43:58.087067 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [.], ack 1633, win 245, options [nop,nop,TS val 2479410598 ecr 100533], length 0
+10:43:58.087166 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:4969, ack 1633, win 245, options [nop,nop,TS val 2479410598 ecr 100533], length 39
+10:43:58.088590 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834121049 ecr 40432], length 0
+10:43:58.092656 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877595938 ecr 100286,nop,wscale 8], length 0
+10:43:58.114631 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 3893710575, ack 3098693468, win 246, options [nop,nop,TS val 1567303180 ecr 40559], length 0
+10:43:58.149975 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497344070 ecr 97781,nop,wscale 8], length 0
+10:43:58.150079 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607351643 ecr 100548], length 0
+10:43:58.151458 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4969:5237, ack 1633, win 245, options [nop,nop,TS val 2479410662 ecr 100533], length 268
+10:43:58.165356 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710847102 ecr 97780,nop,wscale 8], length 0
+10:43:58.166368 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413271, ack 8498, win 401, options [nop,nop,TS val 607351661 ecr 100548], length 81
+10:43:58.166592 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413271:413302, ack 8498, win 401, options [nop,nop,TS val 607351661 ecr 100548], length 31
+10:43:58.166689 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413302:413341, ack 8498, win 401, options [nop,nop,TS val 607351661 ecr 100548], length 39
+10:43:58.170391 IP 212.56.129.228.53 > 192.168.0.6.33099: 11421 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.67.176, A 104.17.71.176, A 104.17.69.176 (117)
+10:43:58.179194 IP 212.56.129.228.53 > 192.168.0.6.26837: 42947 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:43:58.266052 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413302:413341, ack 8498, win 401, options [nop,nop,TS val 607351757 ecr 100548], length 39
+10:43:58.266200 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162727418 ecr 92687], length 0
+10:43:58.286532 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4969:5237, ack 1633, win 245, options [nop,nop,TS val 2479410799 ecr 100533], length 268
+10:43:58.331157 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:58.336503 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1374248 ecr 100505], length 110
+10:43:58.359534 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567303425 ecr 40559], length 0
+10:43:58.381503 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973473502 ecr 100606,nop,wscale 8], length 0
+10:43:58.385454 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896664147 ecr 100607,nop,wscale 8], length 0
+10:43:58.386360 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398309018 ecr 100608,nop,wscale 8], length 0
+10:43:58.396551 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728033686 ecr 97856,nop,wscale 8], length 0
+10:43:58.398961 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379477158 ecr 97845,nop,wscale 8], length 0
+10:43:58.431827 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307099661 ecr 97857,nop,wscale 8], length 0
+10:43:58.432048 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607351924 ecr 100620,nop,nop,sack 1 {8295:8498}], length 0
+10:43:58.461183 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 405245599 ecr 40429], length 31
+10:43:58.463852 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1374377 ecr 100627,nop,nop,sack 1 {4294967047:1}], length 0
+10:43:58.470424 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 403083500 ecr 40422], length 31
+10:43:58.513783 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607352005 ecr 100620], length 151
+10:43:58.559718 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:5237, ack 1633, win 245, options [nop,nop,TS val 2479411070 ecr 100533], length 307
+10:43:58.591495 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834121553 ecr 40432], length 0
+10:43:58.607532 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567303673 ecr 40559], length 0
+10:43:58.701416 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:43:58.754296 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:867, ack 40, win 248, options [nop,nop,TS val 666053764 ecr 100223], length 867
+10:43:58.835016 IP 212.56.132.20.53 > 192.168.0.6.7826: 50807 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:43:58.859531 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351421879 ecr 100222,nop,wscale 8], length 0
+10:43:58.993275 IP 212.56.132.20.53 > 192.168.0.6.47023: 1368 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:43:59.008369 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607352501 ecr 100620], length 151
+10:43:59.013273 IP 212.56.132.20.53 > 192.168.0.6.39237: 30296 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:43:59.024771 IP 212.56.132.20.53 > 192.168.0.6.7506: 21070 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:43:59.040561 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607352535 ecr 100772,nop,nop,sack 1 {8295:8498}], length 0
+10:43:59.069000 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810784428 ecr 100530,nop,wscale 8], length 0
+10:43:59.095572 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567304161 ecr 40559], length 0
+10:43:59.140616 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877596983 ecr 100286,nop,wscale 8], length 0
+10:43:59.141700 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:5237, ack 1633, win 245, options [nop,nop,TS val 2479411655 ecr 100533], length 307
+10:43:59.187415 IP 212.56.132.20.53 > 192.168.0.6.59970: 44992 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:43:59.195725 IP 212.56.132.20.53 > 192.168.0.6.62435: 59303 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:43:59.336021 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707497769 ecr 100845,nop,wscale 8], length 0
+10:43:59.354832 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:43:59.377983 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973474497 ecr 100606,nop,wscale 8], length 0
+10:43:59.382973 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1375296 ecr 100627], length 110
+10:43:59.386877 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896665148 ecr 100607,nop,wscale 8], length 0
+10:43:59.386995 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398310018 ecr 100608,nop,wscale 8], length 0
+10:43:59.436599 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1375346 ecr 100871,nop,nop,sack 1 {4294967047:1}], length 0
+10:43:59.510889 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 405245704 ecr 40429], length 31
+10:43:59.555405 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 403083608 ecr 40422], length 31
+10:43:59.594773 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834122553 ecr 40432], length 0
+10:43:59.713118 IP 212.56.133.145.443 > 192.168.0.6.38894: Flags [.], seq 0:128, ack 1434, win 264, options [nop,nop,TS val 3359691364 ecr 90771], length 128
+10:43:59.852383 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:43:59.853021 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351422869 ecr 100222,nop,wscale 8], length 0
+10:44:00.042050 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607353533 ecr 100772], length 151
+10:44:00.110327 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810785460 ecr 100530,nop,wscale 8], length 0
+10:44:00.110452 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877597946 ecr 100286,nop,wscale 8], length 0
+10:44:00.110563 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567305169 ecr 40559], length 0
+10:44:00.235049 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:5237, ack 1633, win 245, options [nop,nop,TS val 2479412743 ecr 100533], length 307
+10:44:00.361047 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707498793 ecr 100845,nop,wscale 8], length 0
+10:44:00.373760 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707498808 ecr 100845,nop,wscale 8], length 0
+10:44:00.373974 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607353868 ecr 101077,nop,nop,sack 1 {8295:8498}], length 0
+10:44:00.386689 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973475507 ecr 100606,nop,wscale 8], length 0
+10:44:00.389778 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398311020 ecr 100608,nop,wscale 8], length 0
+10:44:00.413231 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896666169 ecr 100607,nop,wscale 8], length 0
+10:44:00.701734 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:00.736667 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:867, ack 40, win 248, options [nop,nop,TS val 666055748 ecr 100223], length 867
+10:44:00.865717 IP 212.56.129.228.53 > 192.168.0.6.2065: 59870 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:01.030643 IP 212.56.129.228.53 > 192.168.0.6.16814: 19177 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:01.037257 IP 212.56.129.228.53 > 192.168.0.6.32574: 61209 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:01.064347 IP 212.56.129.228.53 > 192.168.0.6.49887: 14998 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:01.076039 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810786435 ecr 100530,nop,wscale 8], length 0
+10:44:01.209335 IP 212.56.129.228.53 > 192.168.0.6.64322: 50692 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.67.176, A 104.17.71.176, A 104.17.69.176 (117)
+10:44:01.215245 IP 212.56.129.228.53 > 192.168.0.6.39193: 5303 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:01.372265 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1377281 ecr 100871], length 110
+10:44:01.380985 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973476501 ecr 100606,nop,wscale 8], length 0
+10:44:01.383842 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896667145 ecr 100607,nop,wscale 8], length 0
+10:44:01.390940 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398312021 ecr 100608,nop,wscale 8], length 0
+10:44:01.394912 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1377306 ecr 101360,nop,nop,sack 1 {4294967047:1}], length 0
+10:44:01.409920 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:44:01.592336 IP 99.86.154.53.443 > 192.168.0.6.40388: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 405245912 ecr 40429], length 31
+10:44:01.645270 IP 99.86.154.97.443 > 192.168.0.6.45320: Flags [FP.], seq 0:31, ack 1, win 129, options [nop,nop,TS val 403083817 ecr 40422], length 31
+10:44:01.645486 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834124601 ecr 40432], length 0
+10:44:01.852784 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:01.868436 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351424887 ecr 100222,nop,wscale 8], length 0
+10:44:01.991564 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474731259 ecr 95693,nop,wscale 8], length 0
+10:44:02.023832 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607355517 ecr 101077], length 151
+10:44:02.091207 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567307153 ecr 40559], length 0
+10:44:02.104658 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710851039 ecr 97780,nop,wscale 8], length 0
+10:44:02.104923 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497348027 ecr 97781,nop,wscale 8], length 0
+10:44:02.148152 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877599991 ecr 100286,nop,wscale 8], length 0
+10:44:02.335323 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707500768 ecr 100845,nop,wscale 8], length 0
+10:44:02.352494 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379481111 ecr 97845,nop,wscale 8], length 0
+10:44:02.409744 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:5237, ack 1633, win 245, options [nop,nop,TS val 2479414919 ecr 100533], length 307
+10:44:02.413241 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728037703 ecr 97856,nop,wscale 8], length 0
+10:44:02.418551 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307103646 ecr 97857,nop,wscale 8], length 0
+10:44:02.702065 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:02.709530 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607356188 ecr 101686,nop,nop,sack 1 {8295:8498}], length 0
+10:44:02.883923 IP 212.56.129.228.53 > 192.168.0.6.2689: 24901 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:03.051512 IP 212.56.129.228.53 > 192.168.0.6.32313: 4969 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:03.062706 IP 212.56.129.228.53 > 192.168.0.6.12216: 22140 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:03.063417 IP 212.56.129.228.53 > 192.168.0.6.12382: 12784 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:03.110407 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810788467 ecr 100530,nop,wscale 8], length 0
+10:44:03.231724 IP 212.56.129.228.53 > 192.168.0.6.29865: 23621 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.67.176, A 104.17.71.176, A 104.17.69.176 (117)
+10:44:03.241592 IP 212.56.129.228.53 > 192.168.0.6.25144: 26137 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:03.397619 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973478515 ecr 100606,nop,wscale 8], length 0
+10:44:03.397839 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398314028 ecr 100608,nop,wscale 8], length 0
+10:44:03.413352 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896669176 ecr 100607,nop,wscale 8], length 0
+10:44:03.492471 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], seq 99505:99633, ack 2793, win 157, options [nop,nop,TS val 2854731158 ecr 99008], length 128
+10:44:03.853150 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:03.867504 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351426883 ecr 100222,nop,wscale 8], length 0
+10:44:03.917859 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], seq 0:128, ack 7226, win 341, options [nop,nop,TS val 2162733076 ecr 92687], length 128
+10:44:04.115602 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877601956 ecr 100286,nop,wscale 8], length 0
+10:44:04.439525 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707502825 ecr 100845,nop,wscale 8], length 0
+10:44:04.702386 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:04.721789 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [P.], seq 0:867, ack 40, win 248, options [nop,nop,TS val 666059716 ecr 100223], length 867
+10:44:04.896042 IP 212.56.132.20.53 > 192.168.0.6.19504: 24901 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:05.046234 IP 212.56.132.20.53 > 192.168.0.6.20757: 4969 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:05.061165 IP 212.56.132.20.53 > 192.168.0.6.30063: 22140 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:05.065050 IP 212.56.132.20.53 > 192.168.0.6.16902: 12784 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:05.086759 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810790446 ecr 100530,nop,wscale 8], length 0
+10:44:05.234281 IP 212.56.132.20.53 > 192.168.0.6.9119: 23621 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:05.247012 IP 212.56.132.20.53 > 192.168.0.6.30168: 26137 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:05.321043 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1381231 ecr 102338,nop,nop,sack 1 {4294967047:1}], length 0
+10:44:05.335809 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1381249 ecr 102338], length 110
+10:44:05.394228 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896671153 ecr 100607,nop,wscale 8], length 0
+10:44:05.395822 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973480517 ecr 100606,nop,wscale 8], length 0
+10:44:05.396178 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398316027 ecr 100608,nop,wscale 8], length 0
+10:44:05.523042 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:44:05.674966 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834128633 ecr 40432], length 0
+10:44:05.853505 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:05.995321 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607359485 ecr 101686], length 151
+10:44:05.995537 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567311057 ecr 40559], length 0
+10:44:06.385484 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707504784 ecr 100845,nop,wscale 8], length 0
+10:44:06.702707 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:06.898645 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [P.], seq 4930:5237, ack 1633, win 245, options [nop,nop,TS val 2479419401 ecr 100533], length 307
+10:44:06.898857 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702030003 ecr 102724,nop,wscale 8], length 0
+10:44:06.899006 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [F.], seq 867, ack 92, win 248, options [nop,nop,TS val 666061879 ecr 102725], length 0
+10:44:07.174696 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702030309 ecr 102724,nop,wscale 8], length 0
+10:44:07.454494 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:44:07.571720 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607361062 ecr 102904,nop,nop,sack 1 {8295:8498}], length 0
+10:44:07.852421 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702030990 ecr 102724,nop,wscale 8], length 0
+10:44:07.853917 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:07.883563 IP 212.56.129.228.53 > 192.168.0.6.2689: 24901 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:07.885154 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351430904 ecr 100222,nop,wscale 8], length 0
+10:44:08.046656 IP 212.56.129.228.53 > 192.168.0.6.32313: 4969 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:08.066606 IP 212.56.129.228.53 > 192.168.0.6.12216: 22140 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:08.071473 IP 212.56.129.228.53 > 192.168.0.6.12382: 12784 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:08.093211 IP 216.58.198.2.443 > 192.168.0.6.58946: Flags [S.], seq 804408109, ack 4031018582, win 60192, options [mss 1380,sackOK,TS val 2495648015 ecr 103034,nop,wscale 8], length 0
+10:44:08.095161 IP 216.58.198.2.443 > 192.168.0.6.58882: Flags [F.], seq 5237, ack 1685, win 245, options [nop,nop,TS val 2479420606 ecr 103034], length 0
+10:44:08.171613 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877606007 ecr 100286,nop,wscale 8], length 0
+10:44:08.263642 IP 212.56.129.228.53 > 192.168.0.6.29865: 23621 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.67.176, A 104.17.71.176, A 104.17.69.176 (117)
+10:44:08.263857 IP 212.56.129.228.53 > 192.168.0.6.25144: 26137 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:08.403699 IP 216.58.198.2.443 > 192.168.0.6.58946: Flags [S.], seq 804408109, ack 4031018582, win 60192, options [mss 1380,sackOK,TS val 2495648323 ecr 103034,nop,wscale 8], length 0
+10:44:08.703030 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:09.099772 IP 216.58.198.2.443 > 192.168.0.6.58946: Flags [S.], seq 804408109, ack 4031018582, win 60192, options [mss 1380,sackOK,TS val 2495649022 ecr 103034,nop,wscale 8], length 0
+10:44:09.124574 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810794483 ecr 100530,nop,wscale 8], length 0
+10:44:09.413764 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973484531 ecr 100606,nop,wscale 8], length 0
+10:44:09.414479 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398320045 ecr 100608,nop,wscale 8], length 0
+10:44:09.430609 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896675192 ecr 100607,nop,wscale 8], length 0
+10:44:09.854207 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:09.855759 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702032993 ecr 102724,nop,wscale 8], length 0
+10:44:10.408984 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707508842 ecr 100845,nop,wscale 8], length 0
+10:44:10.497363 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379489253 ecr 97845,nop,wscale 8], length 0
+10:44:10.525804 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307111756 ecr 97857,nop,wscale 8], length 0
+10:44:10.560785 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728045847 ecr 97856,nop,wscale 8], length 0
+10:44:10.562610 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497356485 ecr 97781,nop,wscale 8], length 0
+10:44:10.581686 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710859518 ecr 97780,nop,wscale 8], length 0
+10:44:10.703354 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:11.101203 IP 216.58.198.2.443 > 192.168.0.6.58946: Flags [S.], seq 804408109, ack 4031018582, win 60192, options [mss 1380,sackOK,TS val 2495651023 ecr 103034,nop,wscale 8], length 0
+10:44:11.854527 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:11.878132 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351434897 ecr 100222,nop,wscale 8], length 0
+10:44:11.889203 IP 212.56.132.20.53 > 192.168.0.6.19504: 24901 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:11.911565 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702035053 ecr 102724,nop,wscale 8], length 0
+10:44:12.062699 IP 212.56.132.20.53 > 192.168.0.6.20757: 4969 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:12.073390 IP 212.56.132.20.53 > 192.168.0.6.30063: 22140 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:12.077216 IP 212.56.132.20.53 > 192.168.0.6.16902: 12784 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:12.131039 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877609972 ecr 100286,nop,wscale 8], length 0
+10:44:12.240367 IP 212.56.132.20.53 > 192.168.0.6.9119: 23621 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:12.249274 IP 212.56.132.20.53 > 192.168.0.6.30168: 26137 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:12.703656 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:12.771597 IP 172.217.21.66.443 > 192.168.0.6.57056: Flags [FP.], seq 0:867, ack 92, win 248, options [nop,nop,TS val 666067780 ecr 102725], length 867
+10:44:13.143724 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810798469 ecr 100530,nop,wscale 8], length 0
+10:44:13.143919 IP 216.58.198.2.443 > 192.168.0.6.58946: Flags [S.], seq 804408109, ack 4031018582, win 60192, options [mss 1380,sackOK,TS val 2495653051 ecr 103034,nop,wscale 8], length 0
+10:44:13.144035 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1389049 ecr 104296,nop,nop,sack 1 {4294967047:1}], length 0
+10:44:13.421395 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896679180 ecr 100607,nop,wscale 8], length 0
+10:44:13.421609 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973488539 ecr 100606,nop,wscale 8], length 0
+10:44:13.421720 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398324050 ecr 100608,nop,wscale 8], length 0
+10:44:13.723535 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1389632 ecr 104296], length 110
+10:44:13.735298 IP 173.194.76.155.443 > 192.168.0.6.54866: Flags [R], seq 3875480079, win 0, length 0
+10:44:13.854911 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:13.858442 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702036997 ecr 102724,nop,wscale 8], length 0
+10:44:13.863321 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834136825 ecr 40432], length 0
+10:44:14.186776 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [P.], seq 413190:413341, ack 8498, win 401, options [nop,nop,TS val 607367677 ecr 102904], length 151
+10:44:14.251687 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567319314 ecr 40559], length 0
+10:44:14.359633 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707512792 ecr 100845,nop,wscale 8], length 0
+10:44:14.703956 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:15.855255 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:16.704263 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:16.906331 IP 212.56.129.228.53 > 192.168.0.6.12380: 21972 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:16.906551 IP 212.56.129.228.53 > 192.168.0.6.26856: 24358 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:17.061350 IP 212.56.129.228.53 > 192.168.0.6.4141: 31919 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:17.061569 IP 212.56.129.228.53 > 192.168.0.6.13245: 17967 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:17.077287 IP 212.56.129.228.53 > 192.168.0.6.29840: 18809 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:17.078760 IP 212.56.129.228.53 > 192.168.0.6.17955: 6395 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:17.080123 IP 212.56.129.228.53 > 192.168.0.6.22001: 4187 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:17.081482 IP 212.56.129.228.53 > 192.168.0.6.4129: 3759 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:17.244375 IP 212.56.129.228.53 > 192.168.0.6.22753: 32198 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:17.248033 IP 212.56.129.228.53 > 192.168.0.6.27236: 26842 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:17.254097 IP 212.56.129.228.53 > 192.168.0.6.12263: 27505 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:17.259084 IP 212.56.129.228.53 > 192.168.0.6.9289: 10801 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:17.331417 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [.], ack 8498, win 401, options [nop,nop,TS val 607370822 ecr 105344,nop,nop,sack 1 {8295:8498}], length 0
+10:44:17.855595 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:17.863122 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702041005 ecr 102724,nop,wscale 8], length 0
+10:44:17.881401 ARP, Request who-has 192.168.0.16 tell 192.168.0.1, length 46
+10:44:17.881438 ARP, Reply 192.168.0.16 is-at b8:27:eb:c4:ae:35, length 28
+10:44:18.138228 IP 31.13.86.4.443 > 192.168.0.6.48120: Flags [S.], seq 2464239783, ack 1581875607, win 27760, options [mss 1400,sackOK,TS val 1710867071 ecr 97780,nop,wscale 8], length 0
+10:44:18.138433 IP 31.13.86.4.443 > 192.168.0.6.48122: Flags [S.], seq 76877491, ack 1992368045, win 27760, options [mss 1400,sackOK,TS val 3497364059 ecr 97781,nop,wscale 8], length 0
+10:44:18.375288 IP 31.13.86.8.443 > 192.168.0.6.53524: Flags [S.], seq 1381446459, ack 191670617, win 27760, options [mss 1400,sackOK,TS val 474747642 ecr 95693,nop,wscale 8], length 0
+10:44:18.385203 IP 31.13.86.4.443 > 192.168.0.6.48124: Flags [S.], seq 2060607433, ack 2013591916, win 27760, options [mss 1400,sackOK,TS val 1379497144 ecr 97845,nop,wscale 8], length 0
+10:44:18.450239 IP 31.13.86.4.443 > 192.168.0.6.48126: Flags [S.], seq 17488659, ack 1759309479, win 27760, options [mss 1400,sackOK,TS val 3728053735 ecr 97856,nop,wscale 8], length 0
+10:44:18.450465 IP 31.13.86.4.443 > 192.168.0.6.48128: Flags [S.], seq 1394936223, ack 3101312247, win 27760, options [mss 1400,sackOK,TS val 1307119678 ecr 97857,nop,wscale 8], length 0
+10:44:18.704564 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:19.071759 IP 212.56.132.20.53 > 192.168.0.6.15775: 24358 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:19.073980 IP 212.56.132.20.53 > 192.168.0.6.3857: 21972 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:19.074333 IP 212.56.132.20.53 > 192.168.0.6.26161: 17967 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:19.079354 IP 212.56.132.20.53 > 192.168.0.6.6524: 31919 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:19.080649 IP 212.56.132.20.53 > 192.168.0.6.32296: 4187 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:19.087130 IP 212.56.132.20.53 > 192.168.0.6.26809: 3759 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:19.103596 IP 212.56.132.20.53 > 192.168.0.6.12751: 6395 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:19.146475 IP 212.56.132.20.53 > 192.168.0.6.22972: 18809 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:19.248696 IP 212.56.132.20.53 > 192.168.0.6.12743: 26842 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:19.248914 IP 212.56.132.20.53 > 192.168.0.6.13125: 32198 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:19.256528 IP 212.56.132.20.53 > 192.168.0.6.15031: 27505 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:19.260685 IP 212.56.132.20.53 > 192.168.0.6.10450: 10801 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:19.855944 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:20.133928 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877617974 ecr 100286,nop,wscale 8], length 0
+10:44:20.241518 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351443256 ecr 100222,nop,wscale 8], length 0
+10:44:20.704965 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:21.352892 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810806708 ecr 100530,nop,wscale 8], length 0
+10:44:21.636350 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973496753 ecr 100606,nop,wscale 8], length 0
+10:44:21.767897 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398332396 ecr 100608,nop,wscale 8], length 0
+10:44:21.786191 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896687544 ecr 100607,nop,wscale 8], length 0
+10:44:21.849779 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [P.], seq 3312306893:3312306932, ack 3335011932, win 117, options [nop,nop,TS val 636129227 ecr 90221], length 39
+10:44:21.850024 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [F.], seq 39, ack 1, win 117, options [nop,nop,TS val 636129227 ecr 90221], length 0
+10:44:21.856275 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:21.881842 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702045024 ecr 102724,nop,wscale 8], length 0
+10:44:21.901029 IP 212.56.129.228.53 > 192.168.0.6.26856: 24358 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:21.904832 IP 212.56.129.228.53 > 192.168.0.6.12380: 21972 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:21.959926 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [F.], seq 39, ack 1, win 117, options [nop,nop,TS val 636129339 ecr 90221], length 0
+10:44:22.061059 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [P.], seq 2992459426:2992459482, ack 793778208, win 240, options [nop,nop,TS val 3743785718 ecr 46545], length 56
+10:44:22.061161 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [F.], seq 56, ack 1, win 240, options [nop,nop,TS val 3743785718 ecr 46545], length 0
+10:44:22.149394 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [F.], seq 56, ack 1, win 240, options [nop,nop,TS val 3743785806 ecr 46545], length 0
+10:44:22.183266 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [FP.], seq 0:39, ack 1, win 117, options [nop,nop,TS val 636129564 ecr 90221], length 39
+10:44:22.187896 IP 212.56.129.228.53 > 192.168.0.6.4141: 31919 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:22.188120 IP 212.56.129.228.53 > 192.168.0.6.13245: 17967 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:22.195822 IP 212.56.129.228.53 > 192.168.0.6.17955: 6395 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:22.196200 IP 212.56.129.228.53 > 192.168.0.6.22001: 4187 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:22.196752 IP 212.56.129.228.53 > 192.168.0.6.4129: 3759 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:22.198131 IP 212.56.129.228.53 > 192.168.0.6.29840: 18809 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:22.248130 IP 212.56.129.228.53 > 192.168.0.6.22753: 32198 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:22.254331 IP 212.56.129.228.53 > 192.168.0.6.27236: 26842 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:22.257948 IP 212.56.129.228.53 > 192.168.0.6.9289: 10801 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:22.258191 IP 212.56.129.228.53 > 192.168.0.6.12263: 27505 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:22.397077 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [FP.], seq 0:56, ack 1, win 240, options [nop,nop,TS val 3743786054 ecr 46545], length 56
+10:44:22.624941 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [FP.], seq 0:39, ack 1, win 117, options [nop,nop,TS val 636130003 ecr 90221], length 39
+10:44:22.630088 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707521065 ecr 100845,nop,wscale 8], length 0
+10:44:22.705273 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:22.817450 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [P.], seq 3424310100:3424310156, ack 3487911965, win 250, options [nop,nop,TS val 2430593343 ecr 46728], length 56
+10:44:22.817745 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [F.], seq 56, ack 1, win 250, options [nop,nop,TS val 2430593343 ecr 46728], length 0
+10:44:22.885406 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [FP.], seq 0:56, ack 1, win 240, options [nop,nop,TS val 3743786542 ecr 46545], length 56
+10:44:22.905008 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [F.], seq 56, ack 1, win 250, options [nop,nop,TS val 2430593434 ecr 46728], length 0
+10:44:23.156337 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [FP.], seq 0:56, ack 1, win 250, options [nop,nop,TS val 2430593682 ecr 46728], length 56
+10:44:23.529907 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [FP.], seq 0:39, ack 1, win 117, options [nop,nop,TS val 636130907 ecr 90221], length 39
+10:44:23.644380 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [FP.], seq 0:56, ack 1, win 250, options [nop,nop,TS val 2430594170 ecr 46728], length 56
+10:44:23.856626 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:23.860208 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [FP.], seq 0:56, ack 1, win 240, options [nop,nop,TS val 3743787518 ecr 46545], length 56
+10:44:24.620580 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [FP.], seq 0:56, ack 1, win 250, options [nop,nop,TS val 2430595146 ecr 46728], length 56
+10:44:24.705582 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:25.320791 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [FP.], seq 0:39, ack 1, win 117, options [nop,nop,TS val 636132700 ecr 90221], length 39
+10:44:25.378855 IP 212.56.133.81.443 > 192.168.0.6.52614: Flags [.], ack 2793, win 157, options [nop,nop,TS val 2854753044 ecr 107360], length 0
+10:44:25.843891 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [FP.], seq 0:56, ack 1, win 240, options [nop,nop,TS val 3743789502 ecr 46545], length 56
+10:44:25.856935 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:25.926900 IP 212.56.132.20.53 > 192.168.0.6.15775: 24358 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:25.927021 IP 212.56.132.20.53 > 192.168.0.6.3857: 21972 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:26.063694 IP 212.56.132.20.53 > 192.168.0.6.6524: 31919 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:26.067045 IP 212.56.132.20.53 > 192.168.0.6.26161: 17967 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:26.076715 IP 212.56.132.20.53 > 192.168.0.6.12751: 6395 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:26.081628 IP 212.56.132.20.53 > 192.168.0.6.22972: 18809 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:26.088774 IP 212.56.132.20.53 > 192.168.0.6.32296: 4187 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:26.091634 IP 212.56.132.20.53 > 192.168.0.6.26809: 3759 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:26.253026 IP 212.56.132.20.53 > 192.168.0.6.13125: 32198 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:26.253252 IP 212.56.132.20.53 > 192.168.0.6.12743: 26842 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:26.260907 IP 212.56.132.20.53 > 192.168.0.6.15031: 27505 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:26.261461 IP 212.56.132.20.53 > 192.168.0.6.10450: 10801 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:26.604999 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [FP.], seq 0:56, ack 1, win 250, options [nop,nop,TS val 2430597131 ecr 46728], length 56
+10:44:26.705901 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:26.745831 IP 172.217.21.68.443 > 192.168.0.6.37090: Flags [FP.], seq 413341:413380, ack 8787, win 410, options [nop,nop,TS val 607380239 ecr 107696], length 39
+10:44:27.857294 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:27.894101 IP 31.13.86.4.443 > 192.168.0.6.48152: Flags [S.], seq 1453156230, ack 2113801704, win 27760, options [mss 1400,sackOK,TS val 2351450912 ecr 100222,nop,wscale 8], length 0
+10:44:28.196509 IP 31.13.86.4.443 > 192.168.0.6.48154: Flags [S.], seq 880273628, ack 2291659394, win 27760, options [mss 1400,sackOK,TS val 1877625987 ecr 100286,nop,wscale 8], length 0
+10:44:28.706229 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:28.800406 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [.], ack 1, win 252, options [nop,nop,TS val 1404707 ecr 108208,nop,nop,sack 1 {4294967047:1}], length 0
+10:44:28.841285 IP 31.13.86.36.443 > 192.168.0.6.60712: Flags [FP.], seq 0:39, ack 1, win 117, options [nop,nop,TS val 636136219 ecr 90221], length 39
+10:44:29.220826 IP 31.13.86.36.443 > 192.168.0.6.60770: Flags [S.], seq 2501522415, ack 2362125728, win 27760, options [mss 1400,sackOK,TS val 1810814494 ecr 100530,nop,wscale 8], length 0
+10:44:29.532636 IP 31.13.86.36.443 > 192.168.0.6.60774: Flags [S.], seq 4096115380, ack 2992453495, win 27760, options [mss 1400,sackOK,TS val 1896695185 ecr 100607,nop,wscale 8], length 0
+10:44:29.532840 IP 31.13.86.36.443 > 192.168.0.6.60772: Flags [S.], seq 1105127365, ack 4138543564, win 27760, options [mss 1400,sackOK,TS val 2973504548 ecr 100606,nop,wscale 8], length 0
+10:44:29.532963 IP 31.13.86.36.443 > 192.168.0.6.60776: Flags [S.], seq 2373839088, ack 1653269053, win 27760, options [mss 1400,sackOK,TS val 3398340059 ecr 100608,nop,wscale 8], length 0
+10:44:29.600407 IP 216.58.208.163.443 > 192.168.0.6.60072: Flags [P.], seq 0:110, ack 1, win 252, options [nop,nop,TS val 1405504 ecr 108208], length 110
+10:44:29.749558 IP 216.58.208.138.443 > 192.168.0.6.56512: Flags [FP.], seq 0:56, ack 1, win 240, options [nop,nop,TS val 3743793406 ecr 46545], length 56
+10:44:29.857691 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:30.033710 IP 172.217.21.66.443 > 192.168.0.6.57152: Flags [S.], seq 1028191047, ack 1729805935, win 60192, options [mss 1380,sackOK,TS val 3702053165 ecr 102724,nop,wscale 8], length 0
+10:44:30.123718 IP 216.58.208.174.443 > 192.168.0.6.47526: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 1567335186 ecr 40559], length 0
+10:44:30.248624 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [.], ack 7226, win 341, options [nop,nop,TS val 2162759406 ecr 92687], length 0
+10:44:30.248839 IP 216.58.208.138.443 > 192.168.0.6.56496: Flags [F.], seq 0, ack 1, win 246, options [nop,nop,TS val 834153209 ecr 40432], length 0
+10:44:30.390458 IP 31.13.86.36.443 > 192.168.0.6.60778: Flags [S.], seq 1128231525, ack 1462400190, win 27760, options [mss 1400,sackOK,TS val 707528818 ecr 100845,nop,wscale 8], length 0
+10:44:30.508662 IP 172.217.21.77.443 > 192.168.0.6.39628: Flags [FP.], seq 0:56, ack 1, win 250, options [nop,nop,TS val 2430601034 ecr 46728], length 56
+10:44:30.706630 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:30.923569 IP 212.56.129.228.53 > 192.168.0.6.32780: 29424 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:30.923791 IP 212.56.129.228.53 > 192.168.0.6.14596: 2173 2/0/0 CNAME pagead46.l.doubleclick.net., A 216.58.208.162 (97)
+10:44:30.923905 IP 212.56.132.20.53 > 192.168.0.6.51020: 20324 1/0/0 A 216.58.208.170 (54)
+10:44:31.071831 IP 212.56.129.228.53 > 192.168.0.6.17077: 7355 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:31.072246 IP 212.56.129.228.53 > 192.168.0.6.29377: 29229 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:31.072467 IP 212.56.132.20.53 > 192.168.0.6.21241: 13707 1/0/0 A 216.58.205.68 (48)
+10:44:31.083013 IP 212.56.129.228.53 > 192.168.0.6.22006: 28723 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:31.084478 IP 212.56.129.228.53 > 192.168.0.6.22660: 17778 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.102.13, A 147.75.33.229, A 147.75.33.233, A 147.75.33.131, A 147.75.100.205, A 147.75.84.91, A 147.75.100.161 (398)
+10:44:31.087593 IP 212.56.132.20.53 > 192.168.0.6.55934: 16644 2/4/0 CNAME dualstack.f6.shared.global.fastly.net., A 151.101.242.202 (174)
+10:44:31.094128 IP 212.56.129.228.53 > 192.168.0.6.4493: 25159 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:31.094467 IP 212.56.129.228.53 > 192.168.0.6.9298: 1306 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:31.104536 IP 212.56.132.20.53 > 192.168.0.6.44370: 25593 1/4/0 A 23.237.44.42 (190)
+10:44:31.211914 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 99903669, win 73, length 0
+10:44:31.212197 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 40, win 73, length 0
+10:44:31.212329 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 0:39, ack 40, win 73, length 39
+10:44:31.213029 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], seq 39:1499, ack 40, win 73, length 1460
+10:44:31.213575 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 1499:2357, ack 40, win 73, length 858
+10:44:31.213595 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 2357:2388, ack 40, win 73, length 31
+10:44:31.258872 IP 212.56.129.228.53 > 192.168.0.6.2559: 20391 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:31.259092 IP 212.56.129.228.53 > 192.168.0.6.29206: 21464 5/0/0 A 104.17.68.176, A 104.17.70.176, A 104.17.69.176, A 104.17.71.176, A 104.17.67.176 (117)
+10:44:31.264981 IP 212.56.132.20.53 > 192.168.0.6.13684: 64788 1/4/0 A 51.255.93.27 (191)
+10:44:31.265096 IP 212.56.129.228.53 > 192.168.0.6.21315: 6535 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:31.268798 IP 212.56.129.228.53 > 192.168.0.6.27986: 8742 2/0/0 A 104.18.21.191, A 104.18.20.191 (66)
+10:44:31.269235 IP 212.56.132.20.53 > 192.168.0.6.40534: 54875 1/4/0 A 37.187.175.116 (190)
+10:44:31.315752 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 40, win 73, options [nop,nop,sack 1 {1:40}], length 0
+10:44:31.365292 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 2357:2388, ack 40, win 73, length 31
+10:44:31.575529 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 40, win 73, options [nop,nop,sack 1 {4294967205:40}], length 0
+10:44:31.625723 IP 31.13.86.36.443 > 192.168.0.6.60706: Flags [FP.], seq 202:241, ack 7226, win 341, options [nop,nop,TS val 2162760784 ecr 92687], length 39
+10:44:31.643208 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 0:39, ack 40, win 73, length 39
+10:44:31.858277 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:31.928075 IP 212.56.129.228.53 > 192.168.0.6.28118: 4537 1/0/0 A 216.58.206.74 (54)
+10:44:32.071825 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 40, win 73, options [nop,nop,sack 1 {4294967205:40}], length 0
+10:44:32.084448 IP 212.56.129.228.53 > 192.168.0.6.4161: 1729 1/0/0 A 172.217.21.68 (48)
+10:44:32.099075 IP 212.56.129.228.53 > 192.168.0.6.8826: 3297 2/4/0 CNAME dualstack.f6.shared.global.fastly.net., A 151.101.242.202 (174)
+10:44:32.114958 IP 212.56.129.228.53 > 192.168.0.6.53463: 1792 1/4/0 A 23.237.44.42 (190)
+10:44:32.214469 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 0:39, ack 40, win 73, length 39
+10:44:32.275423 IP 212.56.129.228.53 > 192.168.0.6.55917: 8500 1/4/0 A 51.255.93.27 (191)
+10:44:32.278974 IP 212.56.129.228.53 > 192.168.0.6.19293: 17970 1/4/0 A 37.187.175.116 (190)
+10:44:32.706942 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:32.929275 IP 212.56.132.20.53 > 192.168.0.6.33487: 2173 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:32.929490 IP 212.56.132.20.53 > 192.168.0.6.1885: 29424 2/0/0 CNAME pagead46.l.doubleclick.net., A 172.217.21.66 (97)
+10:44:32.939960 IP 212.56.132.20.53 > 192.168.0.6.11858: 65165 1/0/0 A 216.58.208.170 (54)
+10:44:33.073768 IP 212.56.132.20.53 > 192.168.0.6.26211: 7355 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:33.075364 IP 212.56.132.20.53 > 192.168.0.6.10944: 29229 3/0/0 CNAME wildcard.moatads.com.edgekey.net., CNAME e13136.g.akamaiedge.net., A 2.22.77.207 (127)
+10:44:33.075842 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [.], ack 40, win 73, options [nop,nop,sack 1 {4294967205:40}], length 0
+10:44:33.085190 IP 212.56.132.20.53 > 192.168.0.6.6676: 28723 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:33.090386 IP 212.56.132.20.53 > 192.168.0.6.27921: 17778 10/4/0 CNAME script.hotjar.com.c.section.io., CNAME 89ca855a075f1d47c0a490ec8aa47d0c-100.s.section.io., A 147.75.102.203, A 147.75.100.205, A 147.75.84.91, A 147.75.32.125, A 147.75.100.161, A 147.75.33.131, A 147.75.100.245, A 147.75.33.233 (398)
+10:44:33.095162 IP 212.56.132.20.53 > 192.168.0.6.6973: 25159 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:33.099186 IP 212.56.132.20.53 > 192.168.0.6.29630: 1306 3/0/0 CNAME cf3.rackcdn.com.edgekey.net., CNAME e4848.g.akamaiedge.net., A 2.22.76.169 (181)
+10:44:33.099641 IP 212.56.132.20.53 > 192.168.0.6.49805: 62391 1/0/0 A 216.58.205.68 (48)
+10:44:33.111225 IP 212.56.132.20.53 > 192.168.0.6.20029: 59205 2/4/0 CNAME dualstack.f6.shared.global.fastly.net., A 151.101.242.202 (174)
+10:44:33.127147 IP 212.56.132.20.53 > 192.168.0.6.3346: 12468 1/4/0 A 23.237.44.42 (190)
+10:44:33.260373 IP 212.56.132.20.53 > 192.168.0.6.20645: 20391 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:33.261412 IP 212.56.132.20.53 > 192.168.0.6.23998: 21464 5/0/0 A 104.17.67.176, A 104.17.68.176, A 104.17.71.176, A 104.17.70.176, A 104.17.69.176 (117)
+10:44:33.267150 IP 212.56.132.20.53 > 192.168.0.6.11009: 8742 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:33.271076 IP 212.56.132.20.53 > 192.168.0.6.16346: 6535 2/0/0 A 104.18.20.191, A 104.18.21.191 (66)
+10:44:33.286551 IP 212.56.132.20.53 > 192.168.0.6.9554: 33540 1/4/0 A 51.255.93.27 (191)
+10:44:33.293205 IP 212.56.132.20.53 > 192.168.0.6.3227: 56498 1/4/0 A 37.187.175.116 (190)
+10:44:33.366587 IP 104.20.177.69.443 > 192.168.0.6.38622: Flags [P.], seq 0:39, ack 40, win 73, length 39
+10:44:33.858741 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:34.707260 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+10:44:35.859170 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+10:44:36.707582 ARP, Reply 192.168.0.6 is-at b8:27:eb:c4:ae:35, length 28
+

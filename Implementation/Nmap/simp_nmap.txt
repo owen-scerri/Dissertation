@@ -1,0 +1,35 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-23 21:40 UTC
+Nmap scan report for 192.168.0.1
+Host is up (0.10s latency).
+Not shown: 994 closed ports
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+80/tcp   open     http
+443/tcp  open     https
+5000/tcp open     upnp
+8081/tcp filtered blackice-icecap
+8082/tcp filtered blackice-alerts
+MAC Address: 2C:99:24:65:84:B0 (Arris Group)
+
+Nmap scan report for 192.168.0.6
+Host is up (0.033s latency).
+All 1000 scanned ports on 192.168.0.6 are filtered
+MAC Address: B8:53:AC:7E:9D:AA (Apple)
+
+Nmap scan report for 192.168.0.12
+Host is up (0.022s latency).
+All 1000 scanned ports on 192.168.0.12 are closed
+MAC Address: 50:64:2B:73:BE:6B (Xiaomi Electronics,co.)
+
+Nmap scan report for 192.168.0.252
+Host is up (0.021s latency).
+All 1000 scanned ports on 192.168.0.252 are closed
+MAC Address: 00:00:CA:01:02:03 (Arris Group)
+
+Nmap scan report for 192.168.0.5
+Host is up (0.000033s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+

@@ -1,0 +1,12 @@
+     78 IP 192.168.0.7
+     42 IP 31.13.86.36
+     38 IP 216.58.205.68
+     10 IP 31.13.86.4
+      9 IP 192.168.0.8 > 192
+      6 IP 216.58.205.67
+      6 IP 212.56.132.20
+      3 ARP, Reply 192.168.0.7 is-at b8:27:eb:c4:ae:35, length 28
+      3 ARP, Reply 192.168.0.1 is-at b8:27:eb:c4:ae:35, length 28
+      2 IP6 fe80::2e99:24ff:fe65:84b0 > ff02::1: ICMP6, router advertisement, length 56
+      2 IP 212.56.129.228
+      1 IP 192.168.0.1 > 224

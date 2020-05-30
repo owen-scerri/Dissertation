@@ -1,0 +1,90 @@
+# Nmap 7.80 scan initiated Sat May 23 21:40:58 2020 as: nmap -sV -oN vul_nmap.txt --script vuln 192.168.0.1-255
+Nmap scan report for 192.168.0.1
+Host is up (0.0086s latency).
+Not shown: 994 closed ports
+PORT     STATE    SERVICE         VERSION
+22/tcp   open     tcpwrapped
+|_clamav-exec: ERROR: Script execution failed (use -d to debug)
+80/tcp   open     http            lighttpd
+|_clamav-exec: ERROR: Script execution failed (use -d to debug)
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-enum: 
+|   /backup/: Possible backup (401 Unauthorized)
+|   /backup: Possible backup (401 Unauthorized)
+|   /test.html: Test page
+|_  /logout/: Potentially interesting folder
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+| http-sql-injection: 
+|   Possible sqli for queries:
+|     http://192.168.0.1:80/crypt.js?ver=9.1.103EA%27%20OR%20sqlspider
+|_    http://192.168.0.1:80/text.js?ver=9.1.103EA%27%20OR%20sqlspider
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+443/tcp  open     ssl/http        lighttpd
+|_clamav-exec: ERROR: Script execution failed (use -d to debug)
+|_http-aspnet-debug: ERROR: Script execution failed (use -d to debug)
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-enum: 
+|   /backup/: Possible backup (401 Unauthorized)
+|   /backup: Possible backup (401 Unauthorized)
+|   /login/: Login page
+|   /test.html: Test page
+|_  /logout/: Potentially interesting folder
+| http-sql-injection: 
+|   Possible sqli for queries:
+|     https://192.168.0.1:443/text.js?ver=9.1.103EA%27%20OR%20sqlspider
+|_    https://192.168.0.1:443/crypt.js?ver=9.1.103EA%27%20OR%20sqlspider
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+|_http-vuln-cve2014-3704: ERROR: Script execution failed (use -d to debug)
+|_sslv2-drown: 
+5000/tcp open     upnp            MiniUPnP 1.5 (Linux 2.6.18_pro500; UPnP 1.0)
+|_clamav-exec: ERROR: Script execution failed (use -d to debug)
+| vulners: 
+|   cpe:/a:miniupnp_project:miniupnpd:1.5: 
+|     	CVE-2017-8798	7.5	https://vulners.com/cve/CVE-2017-8798
+|     	CVE-2019-12106	5.0	https://vulners.com/cve/CVE-2019-12106
+|_    	CVE-2017-1000494	4.6	https://vulners.com/cve/CVE-2017-1000494
+8081/tcp filtered blackice-icecap
+8082/tcp filtered blackice-alerts
+MAC Address: 2C:99:24:65:84:B0 (Arris Group)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel:2.6.18
+
+Nmap scan report for 192.168.0.6
+Host is up (0.015s latency).
+All 1000 scanned ports on 192.168.0.6 are filtered
+MAC Address: B8:53:AC:7E:9D:AA (Apple)
+
+Nmap scan report for 192.168.0.12
+Host is up (0.0097s latency).
+All 1000 scanned ports on 192.168.0.12 are closed
+MAC Address: 50:64:2B:73:BE:6B (Xiaomi Electronics,co.)
+
+Nmap scan report for 192.168.0.252
+Host is up (0.010s latency).
+All 1000 scanned ports on 192.168.0.252 are closed
+MAC Address: 00:00:CA:01:02:03 (Arris Group)
+
+Nmap scan report for 192.168.0.5
+Host is up (0.000033s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.1p1 Debian 1 (protocol 2.0)
+|_clamav-exec: ERROR: Script execution failed (use -d to debug)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat May 23 21:48:06 2020 -- 255 IP addresses (5 hosts up) scanned in 427.95 seconds
